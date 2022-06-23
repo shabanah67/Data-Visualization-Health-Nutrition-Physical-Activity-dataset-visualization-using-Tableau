@@ -19,7 +19,8 @@ Data Sources:
 4.	National obesity data from CDC website.
 
 
-Learning: 
+Analysis: 
+
 No reported leisure physical activity seems to be strongly correlated with obesity rates across different state. Many other factors correlate to obesity, but I was trying to hypothesize what would be the strongest. This data set is covering averages from adults across a whole state, The accrued data should be enough to ensure good correlation.
 Unhealthy eating habits and less physical activity along with other parameters like, age, gender, geography, income, race, education are the factors responsible for obesity in the United States of America. 
 Higher obesity leads to formulation of diseases and mental as well as physical health problems which has high cost of healthcare expenditure, the number of people below poverty line is somewhat matches the number of people uninsured for health insurance. 
